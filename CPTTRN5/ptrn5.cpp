@@ -1,3 +1,6 @@
+//Abhishek Singh Thakur
+//programmercave.blogspot.com
+
 #include <iostream>
 #include <cstdio>
 

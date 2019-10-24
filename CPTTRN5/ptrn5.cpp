@@ -1,6 +1,5 @@
-//Abhishek Singh Thakur
-//programmercave.blogspot.com
-
+//programmercave0.github.io
+//https://www.spoj.com/problems/CPTTRN5/
 #include <iostream>
 #include <cstdio>
 

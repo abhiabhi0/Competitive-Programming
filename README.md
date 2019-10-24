@@ -1,2 +1,2 @@
-# SPOJ-Solutions
-Contains solutions of Problem on SPOJ in CPP
+# Competitive-Programming
+Contains solutions of Problems from various websites.

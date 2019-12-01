@@ -5,6 +5,7 @@ Contains solutions of Problems from various websites.
 
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Kangaroo-HackerRank.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/11/28/Kangaroo-HackerRank-Challenge-C++-Implementation)<br/>
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/btween-two-sets-hackerrank.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/11/29/Between-Two-Sets-HackerRank-Challenge-C++-Implementation)<br/>
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/migratory_birds.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/01/Migratory-Birds-HackerRank-Challenge-C++-Implementation) <br/>
 
 ## HackerEarth
 

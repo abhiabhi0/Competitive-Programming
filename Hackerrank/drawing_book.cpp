@@ -20,7 +20,7 @@ int flips_count(int n, int p)
     auto index = std::find(right_page_number.begin(), right_page_number.end(), p);
 
     int num_of_flips_from_front = std::distance(right_page_number.begin(), index);
-	  int num_of_flips_from_back = (n/2) - std::distance(right_page_number.begin(), index);
+    int num_of_flips_from_back = (n/2) - std::distance(right_page_number.begin(), index);
 
     int min_flips = std::min(num_of_flips_from_front, num_of_flips_from_back);
 

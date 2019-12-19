@@ -3,15 +3,18 @@ Contains solutions of Problems from various websites.
 
 ## HackerRank
 
-[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Kangaroo-HackerRank.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/11/28/Kangaroo-HackerRank-Challenge-C++-Implementation)<br/>
-[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/btween-two-sets-hackerrank.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/11/29/Between-Two-Sets-HackerRank-Challenge-C++-Implementation)<br/>
-[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/migratory_birds.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/01/Migratory-Birds-HackerRank-Challenge-C++-Implementation) <br/>
-[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/drawing_book.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/11/Drawing-Book-HackerRank)<br/>
-[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/circular_array_rotation.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/12/Circular-Array-Rotation-HackerRank)<br/>
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Between_two_Sets.cpp) | [Blog](https://programmercave0.github.io/blog/2019/11/29/Between-Two-Sets-HackerRank-Challenge-C++-Implementation) |
+
+[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Kangaroo.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/11/28/Kangaroo-HackerRank-Challenge-C++-Implementation)<br/>
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Migratory_Birds.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/01/Migratory-Birds-HackerRank-Challenge-C++-Implementation) <br/>
+[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Drawing_Book.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/11/Drawing-Book-HackerRank)<br/>
+[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Circular_Array_Rotation.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/12/12/Circular-Array-Rotation-HackerRank)<br/>
 
 ## HackerEarth
 
-[Roy and Code Streak](https://www.hackerearth.com/problem/algorithm/roy-and-code-streak/) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerearth/RoyandCodeStreak.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/10/24/Roy-and-Code-Streak-HackerEarth-Challenge)<br/>
+[Roy and Code Streak](https://www.hackerearth.com/problem/algorithm/roy-and-code-streak/) - [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerearth/Roy_and_Code_Streak.cpp) - [Explanation on Blog](https://programmercave0.github.io/blog/2019/10/24/Roy-and-Code-Streak-HackerEarth-Challenge)<br/>
 
 ## SPOJ
 

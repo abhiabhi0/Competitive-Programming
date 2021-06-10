@@ -34,4 +34,12 @@ Contains solutions of Problems from various websites.
 |:---------------------------------:|:------------:|:--------------------|
 | [CPTTRN5 - Character Patterns (Act 5)](https://www.spoj.com/problems/CPTTRN5/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/SPOJ/ptrn5.cpp) |
 
+---
+
+Also check out - [CodinGame-Solutions](https://github.com/programmercave0/CodinGame-Solutions)
+
+---
+
+
+
 

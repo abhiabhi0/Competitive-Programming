@@ -37,8 +37,4 @@ Contains solutions of Problems from various websites.
 
 Also check out - [CodinGame-Solutions](https://github.com/programmercave0/CodinGame-Solutions)
 
-<a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="botman1001" data-color="#5F7FFF" data-emoji="" data-font="Cookie" data-text="Buy me a coffee ☕" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00"" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
-
-
+<a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

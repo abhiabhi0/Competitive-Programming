@@ -16,6 +16,12 @@ Contains solutions of Problems from various websites.
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/copy-from/124938661?isFullScreen=false) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Repeated_String.cpp) | [Blog](https://programmercave0.github.io/blog/2020/04/24/Repeated-String-HackerRank-Challenge-Cpp-Implementation) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Hackerrank/Sherlock_and_Squares.cpp) | [Blog](https://programmercave0.github.io/blog/2019/12/19/Sherlock-and-Squares-HackerRank) |
 
+## CodeForces
+
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Codeforces/Kefa_and_first_steps.cpp) | |
+
 ## HackerEarth
 
 |Challenge                          | Solution     |      Explanation    |

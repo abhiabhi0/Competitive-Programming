@@ -8,7 +8,7 @@ int main()
 
 	std::vector<int> earnings(n);
 
-	int current_earning; //stores current earning of non-decreasing subsegment
+	int current_earning; //stores highest earning of non-decreasing subsegment
 	int final_count = 0; //stores length of longest non-decreasing subsegment
 	int local_count = 1; //stores length of current subsegment in process
 
@@ -18,7 +18,7 @@ int main()
 
 		if (i == 0)
 		{
-			current_earning = earnings[i];
+			current_earning = earnings[i]
 			//local_count++;
 		}
 		else
@@ -41,7 +41,7 @@ int main()
 	}
 	if (local_count > final_count)
 	{
-			final_count = local_count;
+		final_count = local_count;
 	}
 	std::cout << final_count << "\n";
 }

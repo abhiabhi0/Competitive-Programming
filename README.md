@@ -23,6 +23,12 @@ Contains solutions of Problems from various websites.
 |[Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Codeforces/Hit_the_lottery.cpp) |
 | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Codeforces/Kefa_and_first_steps.cpp) | [Blog](https://programmercave0.github.io/blog/2021/06/28/Kefa-and-First-Steps-CodeForces-C++-Implementation) |
 
+## LeetCode
+
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) | 
+
 ## HackerEarth
 
 |Challenge                          | Solution     |      Explanation    |

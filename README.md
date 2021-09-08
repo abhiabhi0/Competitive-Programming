@@ -29,6 +29,7 @@ Contains solutions of Problems from various websites.
 |:---------------------------------:|:------------:|:--------------------|
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) | 
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/climbing_stairs.cpp) |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
 
 ## HackerEarth
 

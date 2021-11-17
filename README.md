@@ -26,10 +26,14 @@ Contains solutions of Problems from various websites.
 ## LeetCode
 
 |Challenge                          | Solution     |      Explanation    |
-|:---------------------------------:|:------------:|:--------------------|
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) | 
+|:---------------------------------:|:------------:|:--------------------| 
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/climbing_stairs.cpp) |
+| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_good_triplets.cpp) |
+| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_num_of_consistent_strings.cpp) |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
+| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/num_of_good_pairs.cpp) |
+| [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/sum_of_all_subset_xor_totals.cpp) |
 
 ## HackerEarth
 

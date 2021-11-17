@@ -37,6 +37,8 @@ Contains solutions of Problems from various websites.
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/min_value_to_get_positive_step_by_step_sum.cpp) |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/num_of_good_pairs.cpp) |
+| [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/power_of_two.cpp) |
+| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/single_number_III.cpp) |
 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/sum_of_all_subset_xor_totals.cpp) |
 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/toeplitz_matrix.cpp) |
 

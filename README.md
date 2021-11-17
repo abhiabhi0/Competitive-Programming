@@ -30,10 +30,15 @@ Contains solutions of Problems from various websites.
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/climbing_stairs.cpp) |
 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_good_triplets.cpp) |
 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_num_of_consistent_strings.cpp) |
+| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/flipping_an_image.cpp) |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) |
+| [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/island_perimeter.cpp) |
+| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/lucky_numbers_in_a_matrix.cpp) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
+| [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/min_value_to_get_positive_step_by_step_sum.cpp) |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/num_of_good_pairs.cpp) |
 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/sum_of_all_subset_xor_totals.cpp) |
+| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/toeplitz_matrix.cpp) |
 
 ## HackerEarth
 

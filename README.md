@@ -46,6 +46,7 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------|
+| [Array - Min Steps In Infinite Grid]() | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_min_steps_in_infinite_grid.cpp) |
 | [Array - Pick from both sides!](https://www.interviewbit.com/problems/pick-from-both-sides/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_pick_from_both_sides.cpp) | 
 
 ## HackerEarth

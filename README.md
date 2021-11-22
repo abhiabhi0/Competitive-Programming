@@ -42,6 +42,12 @@ Contains solutions of Problems from various websites.
 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/sum_of_all_subset_xor_totals.cpp) |
 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/toeplitz_matrix.cpp) |
 
+## InterviewBit
+
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [Array - Pick from both sides!](https://www.interviewbit.com/problems/pick-from-both-sides/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_pick_from_both_sides.cpp) | 
+
 ## HackerEarth
 
 |Challenge                          | Solution     |      Explanation    |

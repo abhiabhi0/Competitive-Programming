@@ -46,6 +46,7 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------|
+| [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_maximum_absolute_difference.cpp) |
 | [Array - Min Steps In Infinite Grid]() | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_min_steps_in_infinite_grid.cpp) |
 | [Array - Pick from both sides!](https://www.interviewbit.com/problems/pick-from-both-sides/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_pick_from_both_sides.cpp) | 
 | [Bit Manipulation - Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Bit_Manipulation_number_of_1_bits.cpp) |

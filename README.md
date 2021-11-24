@@ -30,6 +30,7 @@ Contains solutions of Problems from various websites.
 | [Bit Manipulation - Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_decoded_xored_array.cpp) |
 | [Bit Manipulation - Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_find_the_difference.cpp) |
 | [Bit Manipulation - Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_hamming_distance.cpp) |
+| [Bit Manipulation - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
 | [Bit Manipulation - Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_missing_number.cpp) |
 | [Bit Manipulation - Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_complement.cpp) |
 | [Bit Manipulation - Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_of_1_bits.cpp) |
@@ -40,7 +41,6 @@ Contains solutions of Problems from various websites.
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/is_subsequence.cpp) |
 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/island_perimeter.cpp) |
 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/lucky_numbers_in_a_matrix.cpp) |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/maximum_subarray.cpp) |
 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/min_value_to_get_positive_step_by_step_sum.cpp) |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/num_of_good_pairs.cpp) |
 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/power_of_two.cpp) |

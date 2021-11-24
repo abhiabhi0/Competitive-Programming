@@ -27,6 +27,10 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------| 
+| [Bit Manipulation - Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_find_the_difference.cpp) |
+| [Bit Manipulation - Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_missing_number.cpp) |
+| [Bit Manipulation - Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_complement.cpp) |
+| [Bit Manipulation - Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_of_1_bits.cpp) |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/climbing_stairs.cpp) |
 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_good_triplets.cpp) |
 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/count_num_of_consistent_strings.cpp) |

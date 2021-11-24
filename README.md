@@ -27,7 +27,9 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------| 
+| [Bit Manipulation - Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_decoded_xored_array.cpp) |
 | [Bit Manipulation - Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_find_the_difference.cpp) |
+| [Bit Manipulation - Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_hamming_distance.cpp) |
 | [Bit Manipulation - Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_missing_number.cpp) |
 | [Bit Manipulation - Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_complement.cpp) |
 | [Bit Manipulation - Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_number_of_1_bits.cpp) |

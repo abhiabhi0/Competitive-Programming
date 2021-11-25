@@ -52,6 +52,7 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------|
+| [Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_anti_diagonals.cpp) |
 | [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_maximum_absolute_difference.cpp) |
 | [Array - Min Steps In Infinite Grid]() | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_min_steps_in_infinite_grid.cpp) |
 | [Array - Perfect Peak Of Array](https://www.interviewbit.com/problems/perfect-peak-of-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_perfect_peak_of_array.cpp) |

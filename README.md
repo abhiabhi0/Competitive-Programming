@@ -27,6 +27,8 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------| 
+| [Array - Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_find_numbers_with_even_number_of_digits.cpp) |
+| [Array - Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_maximum_product_of_two_elements_in_array.cpp) |
 | [Bit Manipulation - Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_decoded_xored_array.cpp) |
 | [Bit Manipulation - Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_find_the_difference.cpp) |
 | [Bit Manipulation - Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_hamming_distance.cpp) |

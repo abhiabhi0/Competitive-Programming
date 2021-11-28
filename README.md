@@ -66,6 +66,7 @@ Contains solutions of Problems from various websites.
 | [Array - Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Array_spiral_order_matrix_II.cpp) |
 | [Bit Manipulation - Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Bit_Manipulation_number_of_1_bits.cpp) |
 | [Bit Manipulation - Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Bit_Manipulation_reverse_bits.cpp) |
+| [Math - Prime Sum](https://www.interviewbit.com/problems/prime-sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_prime_sum.cpp) |
 | [Math - Total Moves For Bishop!](https://www.interviewbit.com/problems/total-moves-for-bishop/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_total_moves_for_bishop.cpp) |
 
 ## HackerEarth

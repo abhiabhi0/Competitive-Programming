@@ -27,6 +27,7 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------| 
+| [Array - Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_count_negative_numbers_in_a_sorted_matrix.cpp) |
 | [Array - Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_find_N_unique_integers_sum_upto_0.cpp) |
 | [Array - Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_find_numbers_with_even_number_of_digits.cpp) |
 | [Array - Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_maximum_product_of_two_elements_in_array.cpp) |

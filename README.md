@@ -71,6 +71,7 @@ Contains solutions of Problems from various websites.
 | [Bit Manipulation - Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Bit_Manipulation_reverse_bits.cpp) |
 | [Math - Prime Sum](https://www.interviewbit.com/problems/prime-sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_prime_sum.cpp) |
 | [Math - Total Moves For Bishop!](https://www.interviewbit.com/problems/total-moves-for-bishop/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_total_moves_for_bishop.cpp) |
+| [String - Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/String_Min_characters_required_to_make_string_palindrome.cpp) |
 
 ## HackerEarth
 

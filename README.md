@@ -74,6 +74,14 @@ Contains solutions of Problems from various websites.
 | [Math - Total Moves For Bishop!](https://www.interviewbit.com/problems/total-moves-for-bishop/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_total_moves_for_bishop.cpp) |
 | [String - Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/String_Min_characters_required_to_make_string_palindrome.cpp) |
 
+## GeeksForGeeks
+
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [BST - Add all greater values to every node in a BST](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/BST_Add_all_greater_values_to_every_node_in_BST.cpp) |
+| [Queue - Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/Queue_reverse_first_k_elements_of_queue.cpp) |
+| [String - Longest Even Length Substring](https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/String_longest_even_length_substring.cpp) |
+
 ## HackerEarth
 
 |Challenge                          | Solution     |      Explanation    |

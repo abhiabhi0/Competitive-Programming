@@ -77,6 +77,12 @@ Contains solutions of Problems from various websites.
 | [Math - Total Moves For Bishop!](https://www.interviewbit.com/problems/total-moves-for-bishop/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/Math_total_moves_for_bishop.cpp) |
 | [String - Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/InterviewBit/String_Min_characters_required_to_make_string_palindrome.cpp) |
 
+## CodeChef
+
+|Challenge                          | Solution     |      Explanation    |
+|:---------------------------------:|:------------:|:--------------------|
+| [The Unchanging OR](https://www.codechef.com/problems/UNCHANGEDOR) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_unchanging_or.cpp) | 
+
 ## GeeksForGeeks
 
 |Challenge                          | Solution     |      Explanation    |

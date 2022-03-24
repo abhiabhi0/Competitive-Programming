@@ -81,7 +81,8 @@ Contains solutions of Problems from various websites.
 
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------|
-| [The Unchanging OR](https://www.codechef.com/problems/UNCHANGEDOR) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_unchanging_or.cpp) | 
+| [Bit Manipulation - The Unchanging OR](https://www.codechef.com/problems/UNCHANGEDOR) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_unchanging_or.cpp) | 
+| [Bit Manipulation - XOR and AND](https://www.codechef.com/problems/XORAND) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_xorand.cpp) | 
 
 ## GeeksForGeeks
 

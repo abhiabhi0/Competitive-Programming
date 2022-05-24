@@ -34,6 +34,7 @@ Contains solutions of Problems from various websites.
 | [Array - Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_majority_ele.cpp) |
 | [Array - Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_maximum_product_of_two_elements_in_array.cpp) |
 | [Array - Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_merge_intervals.cpp) |
+| [Array - Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_majority_ele2.cpp) |
 | [Array - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_merge_sorted_array.cpp) |
 | [Array - Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_next_permutation.cpp) | 
 | [Array - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_pascals_triangle.cpp) |

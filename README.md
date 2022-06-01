@@ -54,7 +54,7 @@ Contains solutions of Problems from various websites.
 | [DP - Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_coin_change.cpp) |
 | [DP - Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_edit_distance.cpp) |
 | [DP - Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_lcs.cpp) |
-} [DP - Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_lis.cpp) |
+| [DP - Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_lis.cpp) |
 | [DP - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_max_prod_subarray.cpp) |
 | [DP - Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_min_cost_stairs.cpp) |
 | [DP - Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_ones_and_zeroes.cpp) | 

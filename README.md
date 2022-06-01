@@ -110,6 +110,7 @@ Contains solutions of Problems from various websites.
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------|
 | [BST - Add all greater values to every node in a BST](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/BST_Add_all_greater_values_to_every_node_in_BST.cpp) |
+| [DP - Word Break](https://practice.geeksforgeeks.org/problems/word-break1352/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/DP_word_break.cpp) |
 | [DP - Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/DP_egg_dropping_puzzle.cpp) |
 | [DP - Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/DP_mcm.cpp) |
 | [DP - Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/DP_max_sum_incr_subseq.cpp) |

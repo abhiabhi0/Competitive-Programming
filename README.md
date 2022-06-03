@@ -58,6 +58,7 @@ Contains solutions of Problems from various websites.
 | [DP - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_max_prod_subarray.cpp) |
 | [DP - Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_min_cost_stairs.cpp) |
 | [DP - Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/DP_ones_and_zeroes.cpp) | 
+| [Linked List - Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/LL_copy_list_with_random_ptr.cpp) |
 | [Linked List - Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/LL_cycle_2.cpp) | 
 | [Linked List - Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/LL_intersection_2_ll.cpp) |
 | [Linked List - Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/LL_palindrome.cpp) |

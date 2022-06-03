@@ -28,6 +28,7 @@ Contains solutions of Problems from various websites.
 |Challenge                          | Solution     |      Explanation    |
 |:---------------------------------:|:------------:|:--------------------| 
 | [Array - 3Sum](https://leetcode.com/problems/3sum/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_3sum.cpp) |
+| [Array - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_stock_buy_and_sell.cpp) |
 | [Array - Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_count_negative_numbers_in_a_sorted_matrix.cpp) |
 | [Array - Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_find_N_unique_integers_sum_upto_0.cpp) |
 | [Array - Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_find_numbers_with_even_number_of_digits.cpp) |
@@ -44,7 +45,7 @@ Contains solutions of Problems from various websites.
 | [Array - Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_set_matrix_zeros.cpp) |
 | [Array - Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_sort_array_by_parity.cpp) |
 | [Array - Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_sort_colors.cpp) |
-| [Array - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_stock_buy_and_sell.cpp) |
+| [Array - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_trap_rainwater.cpp) |
 | [Bit Manipulation - Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_decoded_xored_array.cpp) |
 | [Bit Manipulation - Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_find_the_difference.cpp) |
 | [Bit Manipulation - Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Bit_Manipulation_hamming_distance.cpp) |

@@ -42,6 +42,7 @@ Contains solutions of Problems from various websites.
 | [Array - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_merge_sorted_array.cpp) |
 | [Array - Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_next_permutation.cpp) | 
 | [Array - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_pascals_triangle.cpp) |
+| [Array - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_remove_dup_sorted_arr.cpp) |
 | [Array - Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_set_matrix_zeros.cpp) |
 | [Array - Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_sort_array_by_parity.cpp) |
 | [Array - Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/LeetCode/Array_sort_colors.cpp) |

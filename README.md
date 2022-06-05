@@ -121,6 +121,7 @@ Contains solutions of Problems from various websites.
 | [DP - Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/DP_paindromic_partitioning.cpp) |
 | [Linked List - Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/LL_flattening_ll.cpp) |
 | [Queue - Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/Queue_reverse_first_k_elements_of_queue.cpp) |
+| [Recursion - Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/Recursion_subset_sums.cpp) |
 | [String - Longest Even Length Substring](https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0/) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/Geeksforgeeks/String_longest_even_length_substring.cpp) |
 
 ## HackerEarth

@@ -111,6 +111,7 @@ Contains solutions of Problems from various websites.
 |:---------------------------------:|:------------:|:--------------------|
 | [Bit Manipulation - The Unchanging OR](https://www.codechef.com/problems/UNCHANGEDOR) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_unchanging_or.cpp) | 
 | [Bit Manipulation - XOR and AND](https://www.codechef.com/problems/XORAND) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/Bit_xorand.cpp) | 
+| [String - How Many Maximums](https://www.codechef.com/submit-v2/HOWMANYMAX?tab=statement) | [Solution](https://github.com/programmercave0/Competitive-Programming/blob/master/CodeChef/String_how_many_maxs.cpp) |
 
 ## GeeksForGeeks
 

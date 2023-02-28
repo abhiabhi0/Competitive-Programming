@@ -146,3 +146,7 @@ Also check out : \
 [Algo-Data-Structure](https://github.com/programmercave0/Algo-Data-Structure)
 
 <a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
+
+If you are considering enrolling in Scaler Academy and would like a referral and discount on your fees, I can help. As a current Scaler student, I am able to provide referrals. Please fill out the form at the following link for more information: [FORM - Information before Scaler Academy Referral](https://forms.gle/ZZum3N28FSVDphyU9)
+
+Are you passionate about development and want to find a job that utilizes your skills? Check out [Geektrust](https://www.geektrust.com/create-account?refToken=878753f7a7a69b6db8ea7c) for resources and opportunities in the field of development
